@@ -259,6 +259,7 @@ Linear Alegebra Implementation:
      vector_sub = my_spending_list5 - average_spending_users
 
 Detailed overview:
+
 Ask user for their monthly income and how much they want to save, then ask how much they spend on average for 7 categories
 
 Convert the inputs into 7D numpy arrray
