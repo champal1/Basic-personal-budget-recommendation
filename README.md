@@ -2,9 +2,12 @@
 Hello My name is Alejandro and I am a Computer Science major. Currently studying at Foothill College, waiting to be accepted to UCSC in Fall 2026.
 This is a project for my future job at Intuit. I've created a basic money budget tracker and to generate recommendations based on different number of users that spend similar to what the user typed.
 
-Built forIntuit Software Engineer 1
+Built for Intuit Software Engineer 1
+
 Creator: Alejandro Vargas 
+
 School: Foothill College 
+
 Course: Math 2BL (Linear Algebra Lab) by Jeff Anderson
 
 Project Overview:
